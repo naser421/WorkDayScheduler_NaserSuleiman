@@ -13,3 +13,32 @@ body {
     border-left: 1px solid black;
     padding: 10px;
   }
+  .jumbotron {
+    text-align: center;
+    background-color: transparent; 
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid rgb(107, 107, 107);
+  }
+  
+  .description{
+    white-space: pre-wrap;
+  }
+  
+  .time-block{
+    text-align: left;
+    border-radius: 15px;
+  }
+
+  .row {
+    white-space: pre-wrap;
+    border-top: 1px solid;
+    height: 80px;
+  }
+  
+  .hour {
+    background-color: white;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
